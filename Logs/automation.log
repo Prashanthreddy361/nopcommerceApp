@@ -1,0 +1,166 @@
+09032020 10:18:28 PM: INFO: ****************Test_001_Logo***************
+09032020 10:18:28 PM: INFO: ****************VerifyingHomePage title ***************
+09032020 10:18:31 PM: INFO: *********** Home page  test passed
+09032020 10:18:37 PM: INFO: *********** Verifying Login test
+09032020 10:18:45 PM: INFO: *********** Login test passed
+09032020 10:35:18 PM: INFO: ****************Test_001_Logo***************
+09032020 10:35:18 PM: INFO: ****************VerifyingHomePage title ***************
+09032020 10:35:22 PM: INFO: *********** Home page  test passed
+09032020 10:35:28 PM: INFO: *********** Verifying Login test
+09032020 10:35:44 PM: INFO: *********** Login test passed
+09032020 10:37:42 PM: INFO: ****************Test_001_Logo***************
+09032020 10:37:42 PM: INFO: ****************VerifyingHomePage title ***************
+09032020 10:37:54 PM: INFO: *********** Home page  test passed
+09032020 10:38:06 PM: INFO: *********** Verifying Login test
+09032020 10:38:22 PM: INFO: *********** Login test passed
+09032020 11:56:20 PM: INFO: *********** Verifying Login test
+09032020 11:56:24 PM: INFO: ****************Test_001_Logo***************
+09032020 11:56:24 PM: INFO: ****************VerifyingHomePage title ***************
+09032020 11:59:36 PM: INFO: *********** Verifying Login test
+**********
+09032020 11:59:36 PM: INFO: ****************VerifyingHomePage title ***************
+09032020 11:59:43 PM: INFO: *********** Home page  test passed
+09032020 11:59:55 PM: INFO: *********** Login test passed
+09042020 12:17:56 AM: INFO: ****************Test_001_Logo***************
+09042020 12:17:56 AM: INFO: ****************VerifyingHomePage title ***************
+09042020 12:17:57 AM: INFO: *********** Verifying Login test
+09042020 12:18:04 AM: INFO: *********** Home page  test passed
+09042020 12:18:36 AM: INFO: *********** Login test passed
+09132020 04:56:04 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09132020 04:56:04 PM: INFO: ******* Starting Login DDT Test **********
+09132020 04:56:25 PM: INFO: **** passed ****
+09132020 04:56:32 PM: INFO: **** passed ****
+09132020 04:56:39 PM: INFO: **** passed ****
+09132020 04:56:45 PM: INFO: **** passed ****
+09132020 04:56:45 PM: INFO: ******* DDT Login test passed **********
+09132020 04:56:45 PM: INFO: ******* End of Login DDT Test **********
+09132020 04:56:45 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+09132020 08:53:35 PM: INFO: ************* Test_003_AddCustomer **********
+09132020 08:53:54 PM: INFO: ************* Login succesful **********
+09132020 08:53:54 PM: INFO: ******* Starting Add Customer Test **********
+09132020 08:53:59 PM: INFO: ************* Providing customer info **********
+09142020 07:51:19 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 07:51:34 AM: INFO: ************* Login succesful **********
+09142020 07:51:34 AM: INFO: ******* Starting Add Customer Test **********
+09142020 07:51:41 AM: INFO: ************* Providing customer info **********
+09142020 08:17:07 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 08:17:20 AM: INFO: ************* Login succesful **********
+09142020 08:17:20 AM: INFO: ******* Starting Add Customer Test **********
+09142020 08:17:25 AM: INFO: ************* Providing customer info **********
+09142020 08:29:22 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 08:29:35 AM: INFO: ************* Login succesful **********
+09142020 08:29:35 AM: INFO: ******* Starting Add Customer Test **********
+09142020 08:29:42 AM: INFO: ************* Providing customer info **********
+09142020 08:32:38 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 08:32:50 AM: INFO: ************* Login succesful **********
+09142020 08:32:50 AM: INFO: ******* Starting Add Customer Test **********
+09142020 08:33:32 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 08:33:44 AM: INFO: ************* Login succesful **********
+09142020 08:33:44 AM: INFO: ******* Starting Add Customer Test **********
+09142020 08:33:49 AM: INFO: ************* Providing customer info **********
+09142020 09:07:09 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:07:22 AM: INFO: ************* Login succesful **********
+09142020 09:07:22 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:07:27 AM: INFO: ************* Providing customer info **********
+09142020 09:09:48 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:10:00 AM: INFO: ************* Login succesful **********
+09142020 09:10:00 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:10:07 AM: INFO: ************* Providing customer info **********
+09142020 09:10:20 AM: INFO: ************* Saving customer info **********
+09142020 09:10:20 AM: INFO: ********* Add customer validation started *****************
+09142020 09:10:21 AM: ERROR: ********* Add customer Test Failed ************
+09142020 09:12:48 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:13:04 AM: INFO: ************* Login succesful **********
+09142020 09:13:04 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:13:54 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:14:08 AM: INFO: ************* Login succesful **********
+09142020 09:14:08 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:14:14 AM: INFO: ************* Providing customer info **********
+09142020 09:14:26 AM: INFO: ************* Saving customer info **********
+09142020 09:14:26 AM: INFO: ********* Add customer validation started *****************
+09142020 09:14:27 AM: INFO: ********* Add customer Test Passed *********
+09142020 09:14:27 AM: INFO: ******* Ending Add customer test **********
+09142020 09:23:41 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:23:55 AM: INFO: ************* Login succesful **********
+09142020 09:23:55 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:24:01 AM: INFO: ************* Providing customer info **********
+09142020 09:29:04 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:29:17 AM: INFO: ************* Login succesful **********
+09142020 09:29:17 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:30:09 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:30:21 AM: INFO: ************* Login succesful **********
+09142020 09:30:21 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:30:26 AM: INFO: ************* Providing customer info **********
+09142020 09:36:50 AM: INFO: ************* Test_003_AddCustomer **********
+09142020 09:37:08 AM: INFO: ************* Login succesful **********
+09142020 09:37:08 AM: INFO: ******* Starting Add Customer Test **********
+09142020 09:37:20 AM: INFO: ************* Providing customer info **********
+09142020 09:37:26 AM: INFO: ************* Saving customer info **********
+09142020 09:37:26 AM: INFO: ********* Add customer validation started *****************
+09142020 09:37:27 AM: INFO: ********* Add customer Test Passed *********
+09142020 09:37:27 AM: INFO: ******* Ending Add customer test **********
+09142020 09:50:16 AM: INFO: ************* SearchCustomerByEmail_004 **********
+09142020 09:50:31 AM: INFO: ************* Login succesful **********
+09142020 09:50:31 AM: INFO: ******* Starting Search Customer By Email **********
+09142020 09:50:36 AM: INFO: ************* searching customer by emailID **********
+09142020 09:50:44 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+09152020 09:12:39 AM: INFO: ************* Test_003_AddCustomer **********
+09152020 09:12:54 AM: INFO: ************* Login succesful **********
+09152020 09:12:54 AM: INFO: ******* Starting Add Customer Test **********
+09152020 09:13:02 AM: INFO: ************* Providing customer info **********
+09152020 09:13:12 AM: INFO: ************* Saving customer info **********
+09152020 09:13:12 AM: INFO: ********* Add customer validation started *****************
+09152020 09:13:13 AM: ERROR: ********* Add customer Test Failed ************
+09152020 09:13:35 AM: INFO: *********** Verifying Login test
+09152020 09:13:53 AM: INFO: *********** Login test passed
+09152020 09:16:29 AM: INFO: ************* Test_003_AddCustomer **********
+09152020 09:16:46 AM: INFO: ************* Login succesful **********
+09152020 09:16:46 AM: INFO: ******* Starting Add Customer Test **********
+09152020 09:17:18 AM: INFO: ************* Providing customer info **********
+09152020 09:17:39 AM: INFO: *********** Verifying Login test
+09152020 09:17:52 AM: INFO: *********** Login test passed
+09152020 09:18:48 AM: INFO: ************* Test_003_AddCustomer **********
+09152020 09:19:02 AM: INFO: ************* Login succesful **********
+09152020 09:19:02 AM: INFO: ******* Starting Add Customer Test **********
+09152020 09:19:08 AM: INFO: ************* Providing customer info **********
+09152020 09:19:20 AM: INFO: *********** Verifying Login test
+09152020 09:19:40 AM: INFO: *********** Login test passed
+09152020 09:20:53 AM: INFO: ************* Test_003_AddCustomer **********
+09152020 09:21:09 AM: INFO: ************* Login succesful **********
+09152020 09:21:09 AM: INFO: ******* Starting Add Customer Test **********
+09152020 09:21:15 AM: INFO: ************* Providing customer info **********
+09152020 09:21:20 AM: INFO: ************* Saving customer info **********
+09152020 09:21:20 AM: INFO: ********* Add customer validation started *****************
+09152020 09:21:21 AM: INFO: ********* Add customer Test Passed *********
+09152020 09:21:25 AM: INFO: ******* Ending Add customer test **********
+09152020 09:21:35 AM: INFO: *********** Verifying Login test
+09152020 09:21:44 AM: INFO: *********** Login test passed
+09152020 05:28:36 PM: INFO: ************* Test_003_AddCustomer **********
+09152020 05:29:22 PM: INFO: ************* Login succesful **********
+09152020 05:29:22 PM: INFO: ******* Starting Add Customer Test **********
+09152020 05:30:40 PM: INFO: *********** Verifying Login test
+09152020 05:32:02 PM: INFO: *********** Login test passed
+09152020 05:33:27 PM: INFO: ************* Test_003_AddCustomer **********
+09152020 05:34:56 PM: INFO: ************* Login succesful **********
+09152020 05:34:56 PM: INFO: ******* Starting Add Customer Test **********
+09152020 05:35:18 PM: INFO: *********** Verifying Login test
+09152020 05:39:16 PM: INFO: ************* Test_003_AddCustomer **********
+09152020 05:40:11 PM: INFO: ************* Login succesful **********
+09152020 05:40:11 PM: INFO: ******* Starting Add Customer Test **********
+09152020 05:40:29 PM: INFO: *********** Verifying Login test
+09152020 05:41:06 PM: INFO: *********** Login test passed
+09152020 05:56:00 PM: INFO: ************* Test_003_AddCustomer **********
+09152020 05:56:28 PM: INFO: ************* Login succesful **********
+09152020 05:56:28 PM: INFO: ******* Starting Add Customer Test **********
+09152020 05:56:53 PM: INFO: *********** Verifying Login test
+09152020 05:57:21 PM: INFO: *********** Login test passed
+09152020 05:58:07 PM: INFO: ************* Test_003_AddCustomer **********
+09152020 05:58:30 PM: INFO: ************* Login succesful **********
+09152020 05:58:30 PM: INFO: ******* Starting Add Customer Test **********
+09152020 05:58:36 PM: INFO: ************* Providing customer info **********
+09152020 05:58:42 PM: INFO: ************* Saving customer info **********
+09152020 05:58:42 PM: INFO: ********* Add customer validation started *****************
+09152020 05:58:42 PM: INFO: ********* Add customer Test Passed *********
+09152020 05:58:43 PM: INFO: ******* Ending Add customer test **********
+09152020 05:58:52 PM: INFO: *********** Verifying Login test
+09152020 05:59:09 PM: INFO: *********** Login test passed
