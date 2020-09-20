@@ -164,3 +164,116 @@
 09152020 05:58:43 PM: INFO: ******* Ending Add customer test **********
 09152020 05:58:52 PM: INFO: *********** Verifying Login test
 09152020 05:59:09 PM: INFO: *********** Login test passed
+09172020 09:54:54 AM: INFO: ************* Test_003_AddCustomer **********
+09172020 09:55:19 AM: INFO: ************* Login succesful **********
+09172020 09:55:19 AM: INFO: ******* Starting Add Customer Test **********
+09172020 09:55:23 AM: INFO: ************* Providing customer info **********
+09172020 09:55:26 AM: INFO: ************* Saving customer info **********
+09172020 09:55:26 AM: INFO: ********* Add customer validation started *****************
+09172020 09:55:27 AM: INFO: ********* Add customer Test Passed *********
+09172020 09:55:28 AM: INFO: ******* Ending Add customer test **********
+09172020 09:55:35 AM: INFO: *********** Verifying Login test
+09172020 09:55:45 AM: INFO: *********** Login test passed
+09192020 07:42:16 PM: INFO: ************* SearchVendor_006 **********
+09192020 07:42:32 PM: INFO: ************* Login succesful **********
+09192020 07:42:32 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 07:52:23 PM: INFO: ************* SearchVendor_006 **********
+09192020 07:52:38 PM: INFO: ************* Login succesful **********
+09192020 07:52:38 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 07:53:56 PM: INFO: ************* SearchVendor_006 **********
+09192020 07:54:09 PM: INFO: ************* Login succesful **********
+09192020 07:54:09 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 07:56:00 PM: INFO: ************* SearchVendor_006 **********
+09192020 07:56:18 PM: INFO: ************* Login succesful **********
+09192020 07:56:18 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 07:58:25 PM: INFO: ************* SearchVendor_006 **********
+09192020 07:58:39 PM: INFO: ************* Login succesful **********
+09192020 07:58:39 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:05:14 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:05:29 PM: INFO: ************* Login succesful **********
+09192020 08:05:29 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:11:28 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:11:42 PM: INFO: ************* Login succesful **********
+09192020 08:11:42 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:13:08 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:13:24 PM: INFO: ************* Login succesful **********
+09192020 08:13:25 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:19:39 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:19:55 PM: INFO: ************* Login succesful **********
+09192020 08:19:55 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:24:22 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:24:36 PM: INFO: ************* Login succesful **********
+09192020 08:24:36 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:29:38 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:29:54 PM: INFO: ************* Login succesful **********
+09192020 08:29:54 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:33:26 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:33:40 PM: INFO: ************* Login succesful **********
+09192020 08:33:40 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:38:55 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:39:11 PM: INFO: ************* Login succesful **********
+09192020 08:39:11 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:40:10 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:40:23 PM: INFO: ************* Login succesful **********
+09192020 08:40:23 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:42:45 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:42:58 PM: INFO: ************* Login succesful **********
+09192020 08:42:58 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 08:46:26 PM: INFO: ************* SearchVendor_006 **********
+09192020 08:46:38 PM: INFO: ************* Login succesful **********
+09192020 08:46:38 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 10:49:59 PM: INFO: ************* SearchVendor_006 **********
+09192020 10:51:24 PM: INFO: ************* Login succesful **********
+09192020 10:51:24 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 10:52:26 PM: INFO: ************* SearchVendor_006 **********
+09192020 10:53:06 PM: INFO: ************* Login succesful **********
+09192020 10:53:06 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 10:54:17 PM: INFO: ************* SearchVendor_006 **********
+09192020 10:54:50 PM: INFO: ************* Login succesful **********
+09192020 10:54:50 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 10:59:50 PM: INFO: ************* SearchVendor_006 **********
+09192020 11:00:05 PM: INFO: ************* Login succesful **********
+09192020 11:00:05 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 11:00:12 PM: INFO: ********* Search vendor Test Passed *********
+09192020 11:00:17 PM: INFO: ***************  TC_SearchVendorBYName_006 Finished  *********** 
+09192020 11:03:52 PM: INFO: ************* SearchVendor_006 **********
+09192020 11:04:08 PM: INFO: ************* Login succesful **********
+09192020 11:04:08 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 11:11:01 PM: INFO: ************* SearchVendor_006 **********
+09192020 11:11:16 PM: INFO: ************* Login succesful **********
+09192020 11:11:16 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 11:14:05 PM: INFO: ************* SearchCustomerByName_005 **********
+09192020 11:14:19 PM: INFO: ************* Login succesful **********
+09192020 11:14:19 PM: INFO: ******* Starting Search Customer By Name **********
+09192020 11:14:25 PM: INFO: ************* searching customer by Name **********
+09192020 11:14:32 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+09192020 11:16:00 PM: INFO: ************* SearchCustomerByName_005 **********
+09192020 11:16:14 PM: INFO: ************* Login succesful **********
+09192020 11:16:14 PM: INFO: ******* Starting Search Customer By Name **********
+09192020 11:16:20 PM: INFO: ************* searching customer by Name **********
+09192020 11:16:27 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+09192020 11:27:35 PM: INFO: ************* SearchVendor_006 **********
+09192020 11:27:56 PM: INFO: ************* Login succesful **********
+09192020 11:27:56 PM: INFO: ******* Starting Search Vendor By Name **********
+09192020 11:30:30 PM: INFO: ************* SearchVendor_006 **********
+09192020 11:30:50 PM: INFO: ************* Login succesful **********
+09192020 11:30:51 PM: INFO: ******* Starting Search Vendor By Name **********
+09202020 09:56:59 AM: INFO: ************* SearchVendor_006 **********
+09202020 09:57:19 AM: INFO: ************* Login succesful **********
+09202020 09:57:19 AM: INFO: ******* Starting Search Vendor By Name **********
+09202020 09:57:36 AM: INFO: ***************  TC_SearchVendorBYName_006 Finished  *********** 
+09202020 10:01:44 AM: INFO: ************* SearchVendor_006 **********
+09202020 10:01:57 AM: INFO: ************* Login succesful **********
+09202020 10:01:57 AM: INFO: ******* Starting Search Vendor By Name **********
+09202020 10:02:08 AM: INFO: ***************  TC_SearchVendorBYName_006 Finished  *********** 
+09202020 10:22:15 AM: INFO: ************* SearchVendor_006 **********
+09202020 10:22:30 AM: INFO: ************* Login succesful **********
+09202020 10:22:30 AM: INFO: ******* Starting Search Vendor By Name **********
+09202020 10:35:10 AM: INFO: ************* SearchVendor_006 **********
+09202020 10:35:26 AM: INFO: ************* Login succesful **********
+09202020 10:35:26 AM: INFO: ******* Starting Search Vendor By Name **********
+09202020 10:35:33 AM: INFO: ***************  TC_SearchVendorBYEmail_007 Finished  *********** 
+09202020 10:40:07 AM: INFO: ************* SearchVendor_006 **********
+09202020 10:40:21 AM: INFO: ************* Login succesful **********
+09202020 10:40:21 AM: INFO: ******* Starting Search Vendor By Name **********
+09202020 10:40:27 AM: INFO: ***************  TC_SearchVendorBYName_006 Finished  *********** 

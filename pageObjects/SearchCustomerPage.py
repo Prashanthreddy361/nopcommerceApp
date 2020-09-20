@@ -1,4 +1,4 @@
-class SearchCustomer():
+class SearchCustomer:
     # Add customer Page
     txtEmail_id = "SearchEmail"
     txtFirstName_id="SearchFirstName"

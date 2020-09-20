@@ -39,6 +39,7 @@ class Test_SearchCustomerByName_005:
         searchcust.clickSearch()
         time.sleep(5)
         status=searchcust.searchCustomerByName("Victoria Terces")
+        print(status)
         self.driver.close()
         assert True==status
         self.logger.info("***************  TC_SearchCustomerByName_005 Finished  *********** ")
